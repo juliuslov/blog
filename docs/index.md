@@ -1,11 +1,13 @@
-# Obsidian Notes
+# Hello! I'm Juliette (you can call me Julius)
+This is my blog site built with Mkdocs with Obsidian makes for a pretty slick setup. If you’re ever looking for blog ideas, ways to organize my blog[^1]
 
-Publish your public notes with MkDocs
+# Why? [^2]
 
-## Hello World!
+Please watch the footnote
+# Happy? [^2]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+End=))
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+[^1]: This page is being updated with information about me!
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[^2]: This section has not been noted yet, I hope readers understand. 
