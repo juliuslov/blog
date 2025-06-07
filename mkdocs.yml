@@ -1,4 +1,4 @@
-site_name: Blog
+site_name: Juliette 💐
 
 theme:
     name: 'material'
@@ -39,6 +39,10 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+#  markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
